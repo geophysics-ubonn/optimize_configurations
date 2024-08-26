@@ -1,0 +1,20 @@
+foldername,multichannel
+label,v1
+remove_gamma,False
+K_limit,100000
+numerical_K,False
+type,MC
+logparams,True
+jacobi_cellweight,False
+weighting_x,"[-1, 10.75]"
+weighting_y,"[-4, 0]"
+lambda,1e-06
+res,100
+stepsize,1
+max_injections,40
+nr_configs,200
+reduce_comp,True
+min_possible_configs_per_inj,10
+err_rel,0
+err_abs,0
+elapsed_time,132.00028824806213
